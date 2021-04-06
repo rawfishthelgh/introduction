@@ -1,0 +1,79 @@
+#title{
+    font-family: 'New Tegomin', serif;
+    font-size: 55px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    border-style:solid;
+    border-color: yellow;
+}
+
+*{
+    background-color: black;
+}
+
+*{
+    color:white;
+}
+
+#hello{
+    width: auto; height: auto;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+#birth{
+    width: auto; height: auto;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#soccer, #grad{
+    width: auto; height: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#news{
+    width: auto; height: auto;
+    max-width: 700px;
+    max-height: 700px;
+}
+
+h3{
+    font-family: 'Noto Serif KR', serif;
+}
+
+h4{
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.list{
+    color:blue;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.red{
+    color:red;
+}
+
+#k2{
+    width: auto; height: auto;
+    width: 400px;
+    height: 300px;
+}
+
+#insta{
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#last{
+    font-family: 'New Tegomin', serif;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+#fest{
+    width: 400px;
+    height: 300px;
+}
